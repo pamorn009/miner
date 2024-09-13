@@ -1,11 +1,6 @@
-DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1
-
-RBtTBgmjNCucDyoTBPhNVhMpzzbj8A1kCd
-
-R9jwT463w97NyLFcmBrthhnhJVQgMjSU3d
-
+RUFbpjgiFQiGQgmCxfYerNkCuMxjUN2uJ6
 
 stratum+tcp://ap.luckpool.net:3960
-./cpuminer -a yescryptR16 -o stratum+tcp://yescryptR16.sea.mine.zpool.ca:6333 -u DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1 -p c=DOGE -t 4
+./cpuminer -a gr -o stratum+tcp://na.luckpool.net:3956 -u DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1 -p x -t 4
 
-cd && cd cpuminer-gr && ./cpuminer -a gr -o stratum+tcp://rtm-stratum.pukkapool.com:3052 -u RSdqb433ZCShkPVTr8KSba5V62RptTHbAs.nv01 -p x -t 4
+cd && cd cpuminer-gr && ./cpuminer -a gr -o stratum+tcp://na.luckpool.net:3956 -u RUFbpjgiFQiGQgmCxfYerNkCuMxjUN2uJ6.nv01 -p x -t 4
